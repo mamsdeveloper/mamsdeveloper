@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mamsdeveloper/mamsdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on frilance (web development, social network bots, selenium and windows automation scripts, etc)
 - 🌱 I’m currently learning advanced and high performance python, compilators and programming languages creating, data scinece.
