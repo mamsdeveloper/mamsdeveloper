@@ -31,10 +31,10 @@
 ### Technologies:
 
 <p>
-	<a style="margin-left: 10px;" href="https://kivymd.readthedocs.io/en/latest/index.html"><img src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png"></img></a>
-	<a style="margin-left: 10px;"><img src="https://img.icons8.com/windows/32/000000/django.png"/></a>
-	<a style="margin-left: 10px;"><img src="https://img.icons8.com/color/48/000000/opencv.png"/></a>
-	<a style="margin-left: 10px;"><img src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png"></img></a>
+	<a style="margin-left: 10px;" href="https://kivymd.readthedocs.io/en/latest/index.html"><img style="width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png"></img></a>
+	<a style="margin-left: 10px;"><img style="width: 40px;" src="https://img.icons8.com/windows/32/000000/django.png"/></a>
+	<a style="margin-left: 10px;"><img style="width: 40px;" src="https://img.icons8.com/color/48/000000/opencv.png"/></a>
+	<a style="margin-left: 10px;"><img style="width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png"></img></a>
 </p>
 
 ### Soft skills:
