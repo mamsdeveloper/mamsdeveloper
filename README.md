@@ -13,5 +13,5 @@
 <a href="butvin.mihail@yandex.ru" alt="mamsdeveloper" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/mail.png" alt="daniilshat" height="40" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamsdeveloper&theme=onedark&no-frame=true&no-bg=true" alt="mamsdeveloper" /></a> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamsdeveloper&theme=onedark&no-frame=true&no-bg=true&column=7" alt="mamsdeveloper" /></a> 
 </p>
