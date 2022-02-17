@@ -8,9 +8,9 @@
 ### Contact with me:
 
 <p align="left">
-<a style="margin-left: 10px;"href="https://t.me/butvin_mihail" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="daniilshat" height="40" width="40" /></a>
-<a style="margin-left: 10px;"href="https://vk.com/belk1na_alena" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-com.png" alt="daniilshat" height="40" width="40" /></a>
-<a style="margin-left: 10px;"href="butvin.mihail@yandex.ru" alt="mamsdeveloper" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/mail.png" alt="daniilshat" height="40" width="40" /></a>
+<a style="margin-left: 10px;"href="https://t.me/butvin_mihail" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="40" width="40" /></a>
+<a style="margin-left: 10px;"href="https://vk.com/belk1na_alena" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-com.png" height="40" width="40" /></a>
+<a style="margin-left: 10px;"href="butvin.mihail@yandex.ru" alt="butvin.mihail@yandex.ru" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/mail.png" height="40" width="40" /></a>
 </p>
 
 ### GitHub activity:
@@ -21,20 +21,20 @@
 ### Languages:
 
 <p>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/css3.png"/>
+	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python"/>
+	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp/c/c++"/>
+	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js/javascript"/>
+	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
+	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
 </p>
 
 ### Technologies:
 
 <p>
-	<a style="margin-left: 10px;" href="https://kivymd.readthedocs.io/en/latest/index.html"><img style="width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png"></img></a>
-	<a style="margin-left: 10px;"><img style="width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png"/></a>
-	<a style="margin-left: 10px;"><img style="width: 40px;" src="https://img.icons8.com/color/48/000000/opencv.png"/></a>
-	<a style="margin-left: 10px;"><img style="width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png"></img></a>
+	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png" alt="kivy/kivymd"/>
+	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png" alt="django"/>
+	<img style="margin-left: 10px; width: 40px;" src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv/computer vision/cv2"/>
+	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png" alt="qt/pyqt/pyside"/>
 </p>
 
 ### Soft skills:
