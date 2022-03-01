@@ -2,7 +2,7 @@
 
 -   🔭 I’m currently working on frilance (web development, desctop applications, social network bots, selenium and windows automation scripts, etc)
 -   🌱 I’m currently learning advanced and high performance python, compilators and programming languages creating, data scinece.
--   💬 Ask me about interest and useful python treaks, knownlange, and more
+-   💬 Ask me about interest and useful python tricks, knownlange, and more
 -   ⚡ Fun fact: I codes better than son of your mother`s friend
 
 ### Contact with me:
