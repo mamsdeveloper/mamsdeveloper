@@ -21,20 +21,20 @@
 ### Languages:
 
 <p>
-	<img style="margin-left: 10px;max-height: 50px" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python"/>
-	<img style="margin-left: 10px;max-height: 50px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp/c/c++"/>
-	<img style="margin-left: 10px;max-height: 50px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js/javascript"/>
-	<img style="margin-left: 10px;max-height: 50px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
-	<img style="margin-left: 10px;max-height: 50px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
+	<img style="margin-left: 10px;max-height: 50px; max-width: 50px" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python"/>
+	<img style="margin-left: 10px;max-height: 50px; max-width: 50px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp/c/c++"/>
+	<img style="margin-left: 10px;max-height: 50px; max-width: 50px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js/javascript"/>
+	<img style="margin-left: 10px;max-height: 50px; max-width: 50px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
+	<img style="margin-left: 10px;max-height: 50px; max-width: 50px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
 </p>
 
 ### Technologies:
 
 <p>
-	<img style="margin-left: 10px; max-height: 50px" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png" alt="kivy/kivymd"/>
-	<img style="margin-left: 10px; max-height: 50px" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png" alt="django"/>
-	<img style="margin-left: 10px; max-height: 50px" src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv/computer vision/cv2"/>
-	<img style="margin-left: 10px; max-height: 50px" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png" alt="qt/pyqt/pyside"/>
+	<img style="margin-left: 10px; max-height: 50px; max-width: 50px" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png" alt="kivy/kivymd"/>
+	<img style="margin-left: 10px; max-height: 50px; max-width: 50px" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png" alt="django"/>
+	<img style="margin-left: 10px; max-height: 50px; max-width: 50px" src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv/computer vision/cv2"/>
+	<img style="margin-left: 10px; max-height: 50px; max-width: 50px" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png" alt="qt/pyqt/pyside"/>
 </p>
 
 ### Soft skills:
