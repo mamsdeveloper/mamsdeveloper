@@ -31,10 +31,10 @@
 ### Technologies:
 
 <p>
-	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png" alt="kivy/kivymd"/>
-	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png" alt="django"/>
-	<img style="margin-left: 10px; width: 40px;" src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv/computer vision/cv2"/>
-	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png" alt="qt/pyqt/pyside"/>
+	<a height="40" width="40"><img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png" alt="kivy/kivymd"/></a>
+	<a height="40" width="40"><img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png" alt="django"/></a>
+	<a height="40" width="40"><img style="margin-left: 10px; width: 40px;" src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv/computer vision/cv2"/></a>
+	<a height="40" width="40"><img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png" alt="qt/pyqt/pyside"/></a>
 </p>
 
 ### Soft skills:
