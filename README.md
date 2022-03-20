@@ -21,20 +21,20 @@
 ### Languages:
 
 <p>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp/c/c++"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js/javascript"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
-	<img style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
+	<img height="40" width="40" style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python"/>
+	<img height="40" width="40" style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp/c/c++"/>
+	<img height="40" width="40" style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js/javascript"/>
+	<img height="40" width="40" style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
+	<img height="40" width="40" style="margin-left: 10px;" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
 </p>
 
 ### Technologies:
 
 <p>
-	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png" alt="kivy/kivymd"/>
-	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png" alt="django"/>
-	<img style="margin-left: 10px; width: 40px;" src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv/computer vision/cv2"/>
-	<img style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png" alt="qt/pyqt/pyside"/>
+	<img height="40" width="40" style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/kivymd_logo.png" alt="kivy/kivymd"/>
+	<img height="40" width="40" style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/django_logo.png" alt="django"/>
+	<img height="40" width="40" style="margin-left: 10px; width: 40px;" src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv/computer vision/cv2"/>
+	<img height="40" width="40" style="margin-left: 10px; width: 40px;" src="https://github.com/mamsdeveloper/mamsdeveloper/blob/main/Qt_logo.png" alt="qt/pyqt/pyside"/>
 </p>
 
 ### Soft skills:
